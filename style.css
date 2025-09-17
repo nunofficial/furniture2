@@ -830,7 +830,9 @@ a{
   header {
     padding: 20px; /* меньше отступы */
   }
-
+  .menu{
+    padding-left: 300px;
+  }
   .navigation {
     display: none; /* меню скрываем */
   }
@@ -878,7 +880,18 @@ a{
     padding: 50px 20px;
   }
 
+  .furniture2{
+    padding-left: 0;
+    padding-bottom: 20px;
+  }
+
+  .banner3{
+    position: relative;
+    height: 100px;
+    width: 500px;
+  }
   .right-second-main {
+    padding-left: 170px;
     padding: 20px;
     text-align: center;
   }
