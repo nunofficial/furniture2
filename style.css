@@ -885,15 +885,16 @@ a{
     padding-bottom: 20px;
   }
 
+  }
   .banner3{
     position: relative;
     height: 100px;
     width: 500px;
   }
   .right-second-main {
-    padding-left: 170px;
+    padding-left: 200px;
     padding: 20px;
-    text-align: center;
+    text-align: left;
   }
 
   .mainheader {
