@@ -891,15 +891,13 @@ a{
     height: 100px;
     width: 500px;
   }
-  .right-second-main {
-  }
 
   .mainheader {
     font-size: 36px;
   }
 
   .third-main {
-    padding: 40px 20px;
+    padding: 40px;
   }
 
   .description > h1 {
