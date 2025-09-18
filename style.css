@@ -830,7 +830,11 @@ a{
   header {
     padding: 20px;
   }
-
+  
+  .right-second-main{
+    padding-left: 0;
+    
+  }
   .menu {
     padding-left: 300px;
   }
