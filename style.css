@@ -847,7 +847,10 @@ a{
   .burger {
     display: block; /* показываем бургер */
   }
-
+  .description>img {
+    padding-left: 0;
+    
+    
   .main {
     flex-direction: column; /* вместо в ряд — в колонку */
     padding: 20px;
