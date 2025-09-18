@@ -828,58 +828,62 @@ a{
 
 @media (max-width: 768px) {
   header {
-    padding: 20px; /* меньше отступы */
+    padding: 20px;
   }
-  .menu{
+
+  .menu {
     padding-left: 300px;
   }
-  .checkbox{
+
+  .checkbox {
     display: none;
   }
+
   .navigation {
-    display: none; /* меню скрываем */
+    display: none;
   }
 
   .main-icons {
-    display: none; /* иконки тоже прячем */
+    display: none;
   }
 
   .burger {
-    display: block; /* показываем бургер */
+    display: block;
   }
-  .description>img {
+
+  .description > img {
     padding-left: 0;
-    
-    
-  .main {
-    flex-direction: column; /* вместо в ряд — в колонку */
-    padding: 20px;
-    padding-left: 40px;
   }
-  .main-right{
+
+  .main {
+    flex-direction: column;
+    padding: 20px 40px;
+  }
+
+  .main-right {
     display: none;
   }
-  .button-right{
+
+  .button-right {
     position: absolute;
     padding-left: 300px;
   }
-  .main-left{
+
+  .main-left {
     text-align: left;
   }
-  .main-left>h2{
+
+  .main-left > h2 {
     padding-top: 0;
-  }
-  .right-second-main{
-    padding-left: 100px;
   }
 
   .main-left > p {
-    font-size: 28px; /* текст меньше */
+    font-size: 28px;
     margin-bottom: 20px;
   }
 
   .buttons {
-    flex-direction: column; /* кнопки одна под другой */
+    flex-direction: column;
     gap: 20px;
   }
 
@@ -889,16 +893,15 @@ a{
     padding: 50px 20px;
   }
 
-  .furniture2{
+  .furniture2 {
     padding-left: 0;
     padding-bottom: 20px;
   }
 
-  }
-  .banner3{
+  .banner3 {
     position: relative;
-    height: 100px;
-    width: 500px;
+    height: auto;
+    width: 100%;
   }
 
   .mainheader {
@@ -924,13 +927,14 @@ a{
   .fservices,
   .lwarranty,
   .mdesign {
-    position: static; /* убираем абсолют, чтобы не накладывались */
+    position: static;
     display: block;
     margin: 20px auto;
     width: 80%;
     height: auto;
   }
 }
+
 
 .burger-checkbox {
   position: absolute;
