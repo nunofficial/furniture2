@@ -833,6 +833,9 @@ a{
   .menu{
     padding-left: 300px;
   }
+  .checkbox{
+    display: none;
+  }
   .navigation {
     display: none; /* меню скрываем */
   }
@@ -862,6 +865,9 @@ a{
   }
   .main-left>h2{
     padding-top: 0;
+  }
+  .right-second-main{
+    margin-left: 100px;
   }
 
   .main-left > p {
