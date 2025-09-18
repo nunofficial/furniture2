@@ -421,8 +421,8 @@ a{
 .photo3{
     padding-top: 87px;
     padding-left: 216px;
-    width: 1009;
-    height: 577;
+    width: 1009px;
+    height: 577px;
     position: relative;
 
 
@@ -923,8 +923,7 @@ a{
   }
 
   .photo3 {
-    width: 800px;
-    height: auto;
+    width: 500px;
     padding: 20px 0;
   }
 
