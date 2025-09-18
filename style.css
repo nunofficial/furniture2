@@ -870,7 +870,7 @@ a{
     padding-top: 0;
   }
   .right-second-main{
-    margin-right: 100px;
+    padding-left: 100px;
   }
 
   .main-left > p {
