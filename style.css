@@ -2,6 +2,15 @@
  @import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
  @import url(https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
  
+
+
+
+ .main-left, .main-right, .second-main, .third-main {
+  width: 100%;      
+  box-sizing: border-box;
+}
+
+
  * {
     margin: 0;
     padding: 0;
